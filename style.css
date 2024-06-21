@@ -134,10 +134,10 @@ background-color: #fff;
 border-radius: 10px;
 }
 
-/* .post{
+.post{
 grid-column: 1/5;
 grid-row: 1/2;
-} */
+}
 
 .post .container{
 display: flex;
